@@ -1,4 +1,4 @@
-# 项目名称： wechatwin_revokemsg_block
+# 项目名称： wechat_win_revokemsg_block
 微信 for windows 基于修改 wechatwin.dll 防撤回
 
 利用x32dbg 步进调试二进制文件，找到revokemsg命令，跳过命令执行，已实现防撤回的效果。
