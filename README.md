@@ -14,7 +14,10 @@
 3.打开微信，扫码登陆。
 
 4.在软件中，点击右上角文件-附加
+[![](https://static.hackhp.com/content/uploadfile/201904/68a51555558069.gif)](https://static.hackhp.com/content/uploadfile/201904/68a51555558069.gif)
 
+5.点击符号，搜索“WeChatWin”，找到WeChatWin.dll，双击进入
+[![](https://static.hackhp.com/content/uploadfile/201904/489f1555558073.gif)](https://static.hackhp.com/content/uploadfile/201904/489f1555558073.gif)
 
 # 参考 
 
