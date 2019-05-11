@@ -5,6 +5,10 @@
 
 理论上可以随着官方版本更新，不会被屏蔽，每次更新后重新打dll补丁就行了。
 
+# 使用说明
+
+按照教程手动修改，或者下载 [Releases](https://github.com/Sev73n/wechat_win_revokemsg_block/releases)里面的最新dll文件直接替换即可。
+
 # 教程
 
 1.下载x32dbg 官网下载地址：https://x64dbg.com/#start 或使用仓库内提供的x32dbg.7z
