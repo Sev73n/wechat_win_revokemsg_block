@@ -25,7 +25,9 @@
 
 7.输入“**revokemsg**”
 
-8.找到第一个命令push wechatwin右侧的字符串应该是revokemsg, （不要选择mov命令的，也不要选择前面有L后加双引号的）
+8.找到第一个命令push wechatwin右侧的字符串应该是revokemsg, 
+
+**注意（不要选择mov命令的，也不要选择前面有L后加双引号的）**
 
 9.双击push这个命令，跳转到二进制程序。
 
